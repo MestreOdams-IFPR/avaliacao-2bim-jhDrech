@@ -1,0 +1,1 @@
+o metodo recursivo está invertendo a posiçao de pares de valores dentro de um determinado espaço dentro do vetor.
